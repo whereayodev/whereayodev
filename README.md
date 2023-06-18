@@ -25,6 +25,7 @@
 - Scss
 - Vue
 - Nuxt
+- Django REST Framework
 - Web Components
 - Product Design
 - Animation
