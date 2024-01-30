@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on [Wheelwidget](https://wheelwidget.com)
 
-- 🌱 I’m currently learning **React, Next**
+- 🌱 I’m deeply learning **React & Next**
 
-- 💬 Ask me about **Vue, Nuxt, GSAP, Three**
+- 💬 Ask me about **React, Next, Vue, Nuxt, GSAP, Three, Strapi**
 
 - 📫 How to reach me **whereayo@gmai.com**
 
@@ -22,10 +22,13 @@
 - Typescript
 - Python
 - Golang
-- Scss
+- React
 - Vue
+- Next.js
 - Nuxt
-- Django REST Framework
+- Scss
+- Django (DRF)
+- Strapi
 - Web Components
 - Product Design
 - Animation
