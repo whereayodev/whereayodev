@@ -18,20 +18,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Javascript
-- Typescript
+- JS & TS
 - Python
-- Golang
-- React
-- Vue
-- Next.js
-- Nuxt
-- Scss
-- Django (DRF)
+- React & Next
+- Vue & Nuxt
+- Scss & Styled components
 - Strapi
-- Web Components
-- Product Design
-- Animation
+- Django (DRF)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/whereayodev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="whereayodev" /></a></p><br><br>
