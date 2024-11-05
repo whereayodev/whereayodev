@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React, Next, Vue, Nuxt, GSAP, Three, Strapi**
 
-- 📫 How to reach me **whereayo@gmai.com**
+- 📫 How to reach me **hello@whereayo.work**
 
 - ⚡ Fun fact **: I'm the kind of dude who can design, code, and release just about any product, and it'll be pretty cool.**
 
